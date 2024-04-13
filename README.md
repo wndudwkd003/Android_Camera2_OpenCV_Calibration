@@ -18,3 +18,4 @@
 - https://developer.android.com/media/camera/camera2
 - https://github.com/Kurun-pan/android-multi-camera
 - https://foss4g.tistory.com/1665
+- https://github.com/QuickBirdEng/opencv-android
