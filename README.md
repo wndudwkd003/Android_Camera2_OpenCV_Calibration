@@ -2,7 +2,9 @@
 
 ## 프리뷰
 
+![](https://github.com/wndudwkd003/Android_Camera2_OpenCV_Calibration/blob/master/demo/20240414_035508.png)
 
+![](https://github.com/wndudwkd003/Android_Camera2_OpenCV_Calibration/blob/master/demo/ezgif-7-7defd44b8c.gif)
 
 ## 사용법
 1. 안드로이드 스튜디오와 스마트폰을 연결한다.
